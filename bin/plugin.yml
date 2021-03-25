@@ -1,0 +1,7 @@
+main: me.Folding.Bandage.Main
+name: Bandage
+version: 1.0
+author: Folding
+commands: 
+  Bandage:
+description: -no desc-
